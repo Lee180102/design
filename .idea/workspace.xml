@@ -2,23 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e80e3812-9c47-4164-8658-9e455445384c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/observer_pattern/src/main/com/rookie/display/impl/ForecastDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/observer_pattern/src/main/com/rookie/display/impl/ForecastDisplay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/observer_pattern/src/main/com/rookie/display/impl/StatisticsDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/observer_pattern/src/main/com/rookie/display/impl/StatisticsDisplay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/observer_pattern/src/main/com/rookie/display/impl/ThirdPartyDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/observer_pattern/src/main/com/rookie/display/impl/ThirdPartyDisplay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/unit01/main/com/rookie/behavior/fly/FlyBehavior.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/unit01/main/com/rookie/behavior/fly/impl/FlyNoWay.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/unit01/main/com/rookie/behavior/fly/impl/FlyRocketPowered.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/unit01/main/com/rookie/behavior/fly/impl/FlyWithWings.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/unit01/main/com/rookie/behavior/quack/QuackBehavior.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/unit01/main/com/rookie/behavior/quack/impl/MuteQuack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/unit01/main/com/rookie/behavior/quack/impl/Quack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/unit01/main/com/rookie/behavior/quack/impl/Squack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/unit01/main/com/rookie/duck/MallardDuck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/unit01/main/com/rookie/duck/ModelDuck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/unit01/main/com/rookie/pojo/Duck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/unit01/test/com/rookie/test/MiniDuckSimulator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/observer_pattern/src/main/com/rookie/display/DisplayElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/observer_pattern/src/main/demo01/com/rookie/display/DisplayElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/observer_pattern/src/main/com/rookie/display/impl/CurrentConditionsDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/observer_pattern/src/main/demo01/com/rookie/display/impl/CurrentConditionsDisplay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/observer_pattern/src/main/com/rookie/display/impl/ForecastDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/observer_pattern/src/main/demo01/com/rookie/display/impl/ForecastDisplay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/observer_pattern/src/main/com/rookie/display/impl/StatisticsDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/observer_pattern/src/main/demo01/com/rookie/display/impl/StatisticsDisplay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/observer_pattern/src/main/com/rookie/display/impl/ThirdPartyDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/observer_pattern/src/main/demo01/com/rookie/display/impl/ThirdPartyDisplay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/observer_pattern/src/main/com/rookie/observer/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/observer_pattern/src/main/demo01/com/rookie/observer/Observer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/observer_pattern/src/main/com/rookie/subject/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/observer_pattern/src/main/demo01/com/rookie/subject/Subject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/observer_pattern/src/main/com/rookie/subject/impl/WeatherData.java" beforeDir="false" afterPath="$PROJECT_DIR$/observer_pattern/src/main/demo01/com/rookie/subject/impl/WeatherData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/observer_pattern/src/test/com/rookie/test/WeatherStation.java" beforeDir="false" afterPath="$PROJECT_DIR$/observer_pattern/src/test/com/rookie/test/WeatherStation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strategy_pattern/src/main/com/rookie/behavior/fly/FlyBehavior.java" beforeDir="false" afterPath="$PROJECT_DIR$/strategy_pattern/src/main/demo01/com/rookie/behavior/fly/FlyBehavior.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strategy_pattern/src/main/com/rookie/behavior/fly/impl/FlyNoWay.java" beforeDir="false" afterPath="$PROJECT_DIR$/strategy_pattern/src/main/demo01/com/rookie/behavior/fly/impl/FlyNoWay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strategy_pattern/src/main/com/rookie/behavior/fly/impl/FlyRocketPowered.java" beforeDir="false" afterPath="$PROJECT_DIR$/strategy_pattern/src/main/demo01/com/rookie/behavior/fly/impl/FlyRocketPowered.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strategy_pattern/src/main/com/rookie/behavior/fly/impl/FlyWithWings.java" beforeDir="false" afterPath="$PROJECT_DIR$/strategy_pattern/src/main/demo01/com/rookie/behavior/fly/impl/FlyWithWings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strategy_pattern/src/main/com/rookie/behavior/quack/QuackBehavior.java" beforeDir="false" afterPath="$PROJECT_DIR$/strategy_pattern/src/main/demo01/com/rookie/behavior/quack/QuackBehavior.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strategy_pattern/src/main/com/rookie/behavior/quack/impl/MuteQuack.java" beforeDir="false" afterPath="$PROJECT_DIR$/strategy_pattern/src/main/demo01/com/rookie/behavior/quack/impl/MuteQuack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strategy_pattern/src/main/com/rookie/behavior/quack/impl/Quack.java" beforeDir="false" afterPath="$PROJECT_DIR$/strategy_pattern/src/main/demo01/com/rookie/behavior/quack/impl/Quack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strategy_pattern/src/main/com/rookie/behavior/quack/impl/Squack.java" beforeDir="false" afterPath="$PROJECT_DIR$/strategy_pattern/src/main/demo01/com/rookie/behavior/quack/impl/Squack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strategy_pattern/src/main/com/rookie/duck/MallardDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/strategy_pattern/src/main/demo01/com/rookie/duck/MallardDuck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strategy_pattern/src/main/com/rookie/duck/ModelDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/strategy_pattern/src/main/demo01/com/rookie/duck/ModelDuck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strategy_pattern/src/main/com/rookie/pojo/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/strategy_pattern/src/main/demo01/com/rookie/pojo/Duck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strategy_pattern/src/test/com/rookie/test/MiniDuckSimulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/strategy_pattern/src/test/com/rookie/test/MiniDuckSimulator.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,103 +39,59 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/observer_pattern/src/main/com/rookie/subject/Subject.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/observer_pattern/src/main/com/rookie/observer/Observer.java">
+        <entry file="file://$PROJECT_DIR$/decorator_pattern/src/decorator/Beverage.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" column="57" selection-start-line="9" selection-start-column="57" selection-end-line="9" selection-end-column="57" />
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/observer_pattern/src/main/com/rookie/display/DisplayElement.java">
+        <entry file="file://$PROJECT_DIR$/decorator_pattern/src/decorator/HouseBlend.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="32" selection-start-column="32" selection-end-column="32" />
+            <state relative-caret-position="135">
+              <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/observer_pattern/src/main/com/rookie/subject/impl/WeatherData.java">
+        <entry file="file://$PROJECT_DIR$/decorator_pattern/src/decorator/DarkRoast.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#348#349#0" expanded="true" />
-                <element signature="e#390#391#0" expanded="true" />
-                <element signature="e#489#490#0" expanded="true" />
-                <element signature="e#519#520#0" expanded="true" />
-                <element signature="e#932#933#0" expanded="true" />
-                <element signature="e#965#966#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/observer_pattern/src/main/com/rookie/display/impl/CurrentConditionsDisplay.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="23" column="110" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="110" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="135">
+              <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/observer_pattern/src/test/com/rookie/test/WeatherStation.java">
+        <entry file="file://$PROJECT_DIR$/decorator_pattern/src/decorator/CondimentDecorator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="27" />
+            <state relative-caret-position="75">
+              <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#86#87#0" expanded="true" />
+                <element signature="e#112#113#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/observer_pattern/src/main/com/rookie/display/impl/ThirdPartyDisplay.java">
+        <entry file="file://$PROJECT_DIR$/decorator_pattern/src/decorator/Decaf.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="135">
+              <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/observer_pattern/src/main/com/rookie/display/impl/StatisticsDisplay.java">
+        <entry file="file://$PROJECT_DIR$/decorator_pattern/src/decorator/Espresso.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="28" column="6" selection-start-line="28" selection-start-column="6" selection-end-line="31" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/observer_pattern/src/main/com/rookie/display/impl/ForecastDisplay.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="38" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="38" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="75">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -140,9 +102,18 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Arquillian JUnit Test Class" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>get</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>has</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -150,8 +121,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/unit01/src/com/rookie/behavior/Flybehavior.java" />
-        <option value="$PROJECT_DIR$/unit01/src/com/rookie/behavior/FlyBehavior.java" />
         <option value="$PROJECT_DIR$/unit01/src/com/rookie/behavior/QuackBehavior.java" />
         <option value="$PROJECT_DIR$/unit01/src/com/rookie/behavior/impl/FlyWithWings.java" />
         <option value="$PROJECT_DIR$/unit01/src/com/rookie/behavior/impl/FlyNoWay.java" />
@@ -183,11 +152,30 @@
         <option value="$PROJECT_DIR$/observer_pattern/src/main/com/rookie/display/impl/StatisticsDisplay.java" />
         <option value="$PROJECT_DIR$/observer_pattern/src/main/com/rookie/display/impl/ForecastDisplay.java" />
         <option value="$PROJECT_DIR$/observer_pattern/src/main/com/rookie/display/impl/ThirdPartyDisplay.java" />
+        <option value="$PROJECT_DIR$/observer_pattern/src/main/com/rookie/display/impl/HeatIndexDisplay.java" />
         <option value="$PROJECT_DIR$/observer_pattern/src/test/com/rookie/test/WeatherStation.java" />
+        <option value="$PROJECT_DIR$/observer_pattern/src/main/demo02/com/rookie/observer/GeneralDisplay.java" />
+        <option value="$PROJECT_DIR$/observer_pattern/src/main/demo02/com/rookie/observable/WeatherData.java" />
+        <option value="$PROJECT_DIR$/observer_pattern/src/main/demo02/com/rookie/observer/CurrentConditionsDisplay.java" />
+        <option value="$PROJECT_DIR$/observer_pattern/src/main/demo02/com/rookie/observer/ForecastDisplay.java" />
+        <option value="$PROJECT_DIR$/observer_pattern/src/main/demo02/com/rookie/observer/HeatIndexDisplay.java" />
+        <option value="$PROJECT_DIR$/observer_pattern/src/main/demo02/com/rookie/observer/StatisticsDisplay.java" />
+        <option value="$PROJECT_DIR$/observer_pattern/src/test/com/rookie/test02/WeatherStation.java" />
+        <option value="$PROJECT_DIR$/observer_pattern/src/test/com/rookie/test02/WeatherStationHeatIndex.java" />
+        <option value="$PROJECT_DIR$/observer_pattern/src/main/swimg/AngelListener.java" />
+        <option value="$PROJECT_DIR$/observer_pattern/src/main/swimg/SwingObserverExample.java" />
+        <option value="$PROJECT_DIR$/decorator_pattern/src/decorator/DecafTest.java" />
+        <option value="$PROJECT_DIR$/decorator_pattern/src/decorator/DartRoast.java" />
+        <option value="$PROJECT_DIR$/decorator_pattern/src/decorator/HouseBlend.java" />
+        <option value="$PROJECT_DIR$/decorator_pattern/src/decorator/DarkRoast.java" />
+        <option value="$PROJECT_DIR$/decorator_pattern/src/decorator/Decaf.java" />
+        <option value="$PROJECT_DIR$/decorator_pattern/src/decorator/Espresso.java" />
+        <option value="$PROJECT_DIR$/decorator_pattern/src/decorator/Beverage.java" />
+        <option value="$PROJECT_DIR$/decorator_pattern/src/decorator/CondimentDecorator.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
@@ -207,125 +195,77 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="design" type="b2602c69:ProjectViewProjectNode" />
-              <item name="observer_pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="decorator_pattern" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="design" type="b2602c69:ProjectViewProjectNode" />
-              <item name="observer_pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="decorator_pattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="design" type="b2602c69:ProjectViewProjectNode" />
-              <item name="observer_pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="decorator_pattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="decorator" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="design" type="b2602c69:ProjectViewProjectNode" />
               <item name="observer_pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design" type="b2602c69:ProjectViewProjectNode" />
-              <item name="observer_pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="rookie" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design" type="b2602c69:ProjectViewProjectNode" />
-              <item name="observer_pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="rookie" type="462c0819:PsiDirectoryNode" />
-              <item name="display" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design" type="b2602c69:ProjectViewProjectNode" />
-              <item name="observer_pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="rookie" type="462c0819:PsiDirectoryNode" />
-              <item name="observer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design" type="b2602c69:ProjectViewProjectNode" />
-              <item name="observer_pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="rookie" type="462c0819:PsiDirectoryNode" />
-              <item name="subject" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="design" type="b2602c69:ProjectViewProjectNode" />
               <item name="strategy_pattern" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design" type="b2602c69:ProjectViewProjectNode" />
-              <item name="strategy_pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design" type="b2602c69:ProjectViewProjectNode" />
-              <item name="strategy_pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design" type="b2602c69:ProjectViewProjectNode" />
-              <item name="strategy_pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design" type="b2602c69:ProjectViewProjectNode" />
-              <item name="strategy_pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="rookie" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="D:/SDE/android-sdk-windows" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/unit01/src/com/rookie/behavior/quack" />
+    <property name="last_opened_file_path" value="E:/git/assembly-ningbo-bc-rear-service" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="decorator" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\eclipse\idea\design\observer_pattern\src\test\com\rookie\test02" />
+      <recent name="E:\eclipse\idea\design\observer_pattern\src\main\demo02\com\rookie\observer" />
+      <recent name="E:\eclipse\idea\design\unit01\src\com\rookie\behavior\quack" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="main.demo02.com.rookie.observer" />
       <recent name="main.com.rookie.display.impl" />
       <recent name="com.rookie.behavior.impl" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\eclipse\idea\design\unit01\src\com\rookie\behavior\quack" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="main.swimg" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -340,13 +280,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.WeatherStation">
+  <component name="RunManager" selected="Application.SwingObserverExample">
     <configuration name="MiniDuckSimulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test.com.rookie.test.MiniDuckSimulator" />
       <module name="strategy_pattern" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="test.com.rookie.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwingObserverExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.swimg.SwingObserverExample" />
+      <module name="observer_pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.swimg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WeatherStation (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.com.rookie.test02.WeatherStation" />
+      <module name="observer_pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.com.rookie.test02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -367,55 +333,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <module name="strategy_pattern" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <module name="strategy_pattern" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
+    <configuration name="WeatherStationHeatIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.com.rookie.test02.WeatherStationHeatIndex" />
+      <module name="observer_pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.com.rookie.test02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SwingObserverExample" />
+        <item itemvalue="Application.WeatherStationHeatIndex" />
+        <item itemvalue="Application.WeatherStation (1)" />
         <item itemvalue="Application.WeatherStation" />
         <item itemvalue="Application.MiniDuckSimulator" />
       </list>
@@ -433,18 +368,33 @@
       <updated>1563152489549</updated>
       <workItem from="1563152491368" duration="1378000" />
       <workItem from="1563155196044" duration="8834000" />
-      <workItem from="1563176271124" duration="5767000" />
+      <workItem from="1563176271124" duration="6144000" />
+      <workItem from="1563236655343" duration="10944000" />
+      <workItem from="1563259462083" duration="1656000" />
+      <workItem from="1563324834015" duration="4128000" />
+      <workItem from="1563334243095" duration="1195000" />
+      <workItem from="1563348008177" duration="1408000" />
+      <workItem from="1563355626109" duration="187000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15979000" />
+    <option name="totallyTimeSpent" value="35874000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24583964" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -453,7 +403,41 @@
       <window_info id="UI Designer" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32935154" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32935154" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32935154" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32935154" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Flutter Performance" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32935154" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Flutter Inspector" order="5" />
+      <window_info anchor="right" id="Flutter Outline" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Capture Analysis" order="10" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="UI Designer" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32935154" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -476,10 +460,22 @@
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
       <window_info anchor="right" id="Capture Analysis" order="10" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Observable.java</url>
+          <line>154</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/unit01/src/com/rookie/behavior/fly/impl/Quack.java" />
@@ -487,14 +483,14 @@
     <entry file="file://$PROJECT_DIR$/unit01/src/com/rookie/behavior/fly/impl/MuteQuack.java" />
     <entry file="file://$PROJECT_DIR$/unit01/src/com/rookie/behavior/quack/impl/FlyWithWings.java" />
     <entry file="file://$PROJECT_DIR$/unit01/src/com/rookie/behavior/quack/impl/FlyNoWay.java" />
-    <entry file="file://$PROJECT_DIR$/strategy_pattern/src/main/com/rookie/behavior/fly/FlyBehavior.java">
+    <entry file="file://$PROJECT_DIR$/strategy_pattern/src/main/demo01/com/rookie/behavior/fly/FlyBehavior.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/strategy_pattern/src/main/com/rookie/duck/MallardDuck.java">
+    <entry file="file://$PROJECT_DIR$/strategy_pattern/src/main/demo01/com/rookie/duck/MallardDuck.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
@@ -506,14 +502,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/strategy_pattern/src/main/com/rookie/behavior/quack/QuackBehavior.java">
+    <entry file="file://$PROJECT_DIR$/strategy_pattern/src/main/demo01/com/rookie/behavior/quack/QuackBehavior.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/strategy_pattern/src/main/com/rookie/behavior/fly/impl/FlyWithWings.java">
+    <entry file="file://$PROJECT_DIR$/strategy_pattern/src/main/demo01/com/rookie/behavior/fly/impl/FlyWithWings.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
@@ -524,7 +520,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/strategy_pattern/src/main/com/rookie/behavior/quack/impl/Squack.java">
+    <entry file="file://$PROJECT_DIR$/strategy_pattern/src/main/demo01/com/rookie/behavior/quack/impl/Squack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
@@ -535,7 +531,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/strategy_pattern/src/main/com/rookie/behavior/fly/impl/FlyRocketPowered.java">
+    <entry file="file://$PROJECT_DIR$/strategy_pattern/src/main/demo01/com/rookie/behavior/fly/impl/FlyRocketPowered.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
@@ -545,7 +541,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/strategy_pattern/src/main/com/rookie/duck/ModelDuck.java">
+    <entry file="file://$PROJECT_DIR$/strategy_pattern/src/main/demo01/com/rookie/duck/ModelDuck.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="18" selection-start-line="18" selection-end-line="18" />
@@ -567,7 +563,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/strategy_pattern/src/main/com/rookie/behavior/fly/impl/FlyNoWay.java">
+    <entry file="file://$PROJECT_DIR$/strategy_pattern/src/main/demo01/com/rookie/behavior/fly/impl/FlyNoWay.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
@@ -578,7 +574,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/strategy_pattern/src/main/com/rookie/behavior/quack/impl/MuteQuack.java">
+    <entry file="file://$PROJECT_DIR$/strategy_pattern/src/main/demo01/com/rookie/behavior/quack/impl/MuteQuack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
@@ -589,7 +585,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/strategy_pattern/src/main/com/rookie/behavior/quack/impl/Quack.java">
+    <entry file="file://$PROJECT_DIR$/strategy_pattern/src/main/demo01/com/rookie/behavior/quack/impl/Quack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" selection-start-line="11" selection-end-line="11" />
@@ -600,7 +596,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/strategy_pattern/src/main/com/rookie/pojo/Duck.java">
+    <entry file="file://$PROJECT_DIR$/strategy_pattern/src/main/demo01/com/rookie/pojo/Duck.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="38" lean-forward="true" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
@@ -617,40 +613,68 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/observer_pattern/src/main/com/rookie/pojo/WeatherData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="7" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="12" selection-end-column="7" />
+    <entry file="file://$PROJECT_DIR$/observer_pattern/src/main/com/rookie/pojo/WeatherData.java" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/observer_pattern/src/main/com/rookie/observer/Observer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="57" selection-start-line="9" selection-start-column="57" selection-end-line="9" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/observer_pattern/src/main/com/rookie/subject/Subject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/observer_pattern/src/main/com/rookie/display/DisplayElement.java">
+    <entry file="file://$PROJECT_DIR$/observer_pattern/src/main/demo01/com/rookie/display/DisplayElement.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="32" selection-start-column="32" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/observer_pattern/src/main/com/rookie/display/impl/CurrentConditionsDisplay.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Observable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
+        <state relative-caret-position="-500">
+          <caret line="153" column="20" selection-start-line="153" selection-start-column="12" selection-end-line="153" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/observer_pattern/src/main/demo01/com/rookie/observer/Observer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="57" selection-start-line="9" selection-start-column="57" selection-end-line="9" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/observer_pattern/src/main/demo02/com/rookie/observable/WeatherData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <folding>
+            <element signature="e#562#563#0" expanded="true" />
+            <element signature="e#577#578#0" expanded="true" />
+            <element signature="e#615#616#0" expanded="true" />
+            <element signature="e#638#639#0" expanded="true" />
+            <element signature="e#672#673#0" expanded="true" />
+            <element signature="e#694#695#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/observer_pattern/src/main/demo01/com/rookie/display/impl/ThirdPartyDisplay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/observer_pattern/src/main/demo01/com/rookie/display/impl/StatisticsDisplay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="28" column="6" selection-start-line="28" selection-start-column="6" selection-end-line="31" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/observer_pattern/src/main/demo01/com/rookie/display/impl/CurrentConditionsDisplay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
           <caret line="23" column="110" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="110" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -658,23 +682,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/observer_pattern/src/main/com/rookie/display/impl/ThirdPartyDisplay.java">
+    <entry file="file://$PROJECT_DIR$/observer_pattern/src/main/demo01/com/rookie/display/impl/ForecastDisplay.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/observer_pattern/src/main/com/rookie/display/impl/StatisticsDisplay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="28" column="6" selection-start-line="28" selection-start-column="6" selection-end-line="31" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/observer_pattern/src/main/com/rookie/display/impl/ForecastDisplay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="212">
           <caret line="17" column="38" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -682,28 +692,169 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/observer_pattern/src/main/com/rookie/subject/impl/WeatherData.java">
+    <entry file="file://$PROJECT_DIR$/observer_pattern/src/main/demo02/com/rookie/observer/CurrentConditionsDisplay.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        <state relative-caret-position="413">
+          <caret line="32" column="5" selection-start-line="14" selection-start-column="2" selection-end-line="32" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#348#349#0" expanded="true" />
-            <element signature="e#390#391#0" expanded="true" />
-            <element signature="e#489#490#0" expanded="true" />
-            <element signature="e#519#520#0" expanded="true" />
-            <element signature="e#932#933#0" expanded="true" />
-            <element signature="e#965#966#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Downloads/Head-First-Design-Patterns-master/Head-First-Design-Patterns-master/src/headfirst/designpatterns/observer/weatherobservable/CurrentConditionsDisplay.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/observer_pattern/src/test/com/rookie/test/WeatherStation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="27" />
+        <state relative-caret-position="90">
+          <caret line="6" column="55" selection-start-line="6" selection-start-column="55" selection-end-line="6" selection-end-column="55" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/observer_pattern/src/main/demo02/com/rookie/observer/ForecastDisplay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+          <folding>
+            <element signature="e#403#404#0" expanded="true" />
+            <element signature="e#447#448#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/observer_pattern/src/main/demo02/com/rookie/observer/HeatIndexDisplay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="8" column="62" selection-start-line="8" selection-start-column="62" selection-end-line="8" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/observer_pattern/src/main/demo02/com/rookie/observer/StatisticsDisplay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+          <folding>
+            <element signature="e#405#406#0" expanded="true" />
+            <element signature="e#449#450#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/observer_pattern/src/main/demo02/com/rookie/observer/GeneralDisplay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/observer_pattern/src/test/com/rookie/test02/WeatherStation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/observer_pattern/src/test/com/rookie/test02/WeatherStationHeatIndex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/observer_pattern/src/main/swimg/AngelListener.java" />
+    <entry file="file://$PROJECT_DIR$/observer_pattern/src/main/demo01/com/rookie/subject/Subject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/observer_pattern/src/main/swimg/SwingObserverExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="68" column="30" selection-start-line="68" selection-start-column="30" selection-end-line="68" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/observer_pattern/src/main/demo01/com/rookie/subject/impl/WeatherData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="38" column="52" lean-forward="true" selection-start-line="38" selection-start-column="52" selection-end-line="38" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/observer_pattern/src/main/demo01/com/rookie/display/impl/HeatIndexDisplay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/observer_pattern/observer_pattern.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/decorator_pattern/src/decorator/DecafTest.java" />
+    <entry file="file://$PROJECT_DIR$/decorator_pattern/src/decorator/Beverage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/decorator_pattern/src/decorator/HouseBlend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/decorator_pattern/src/decorator/Espresso.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/decorator_pattern/src/decorator/Decaf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/decorator_pattern/src/decorator/DarkRoast.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/decorator_pattern/src/decorator/CondimentDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <folding>
+            <element signature="e#86#87#0" expanded="true" />
+            <element signature="e#112#113#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -758,11 +909,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>strategy_pattern</last-edited>
+          <last-edited>decorator_pattern</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.14044946" />
                 <option value="0.6" />
               </list>
             </option>
